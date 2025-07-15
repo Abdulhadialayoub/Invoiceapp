@@ -100,11 +100,7 @@ Katkıda bulunmak isterseniz, öncelikle bir konu (issue) oluşturarak öneriniz
 
 ---
 
-## 📄 Lisans
 
-> Bu proje için bir lisans belirtilmemiştir. Dilerseniz buraya [MIT](https://opensource.org/licenses/MIT), GPL veya farklı bir lisans türü ekleyebilirsiniz.
-
----
 
 ## 📧 İletişim
 
